@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "StratSync - AI Co-Pilot (Redirect)",
+  "version": "1.0.3",
+  "description": "Your AI co-pilot for customer success and business growth.",
+  "action": {
+    "default_popup": "dist/index.html"
+  },
+  "icons": {
+    "16": "public/icons/icon16.png",
+    "48": "public/icons/icon48.png",
+    "128": "public/icons/icon128.png"
+  },
+  "permissions": ["storage"] 
+}
